@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vinay-begar/clip-landing)
-- Live Site URL: [vercel Link](https://huddle-landing-page-virid.vercel.app/)
+- Solution URL: [Github](https://https://github.com/vinay-begar/beats-landing)
+- Live Site URL: [vercel Link](https://https://beats-landing-psi.vercel.app/)
 
 ### ScreenShot
 
