@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://https://github.com/vinay-begar/beats-landing)
-- Live Site URL: [vercel Link](https://https://beats-landing-psi.vercel.app/)
+- Live Site URL: [vercel Link](https://https://beats-landing-vinay-begars-projects.vercel.app/)
 
 ### ScreenShot
 
